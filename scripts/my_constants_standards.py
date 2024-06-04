@@ -6,4 +6,4 @@ def my_colors_setup():
     return
 
 if __name__ == '__main__':
-    print(f"Please only import this 'my_constants.py' module.")
+    print(f"Please only import this 'my_constants_standards.py' module.")

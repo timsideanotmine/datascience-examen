@@ -1,7 +1,11 @@
 # 1 : datascience-examen van Johan Van Erum
-    de code base bevat 2 notebooks in de map /notebooks
+    de code base bevat 3 notebooks in de map /notebooks
     -   examen-deel1-oplossing, het eerste deel, gedaan op 4 juni 2024 vanaf 18:45 's avonds
+    -   examen-deel1-oplossing-afgewerkt, het eerste deel, gedaan op 4 juni 2024, vervolledigd buiten tijd
     -   examen-deel1-original, de opgave van het examen
+    -   examen-deel2-oplossing, het tweede deel, gedaan op 11 juni 2024 vanaf 18:45 's avonds
+    -   examen-deel2-original, de opgave van het examen
+
     deze notebooks vormen de oplossing van de student Johan Van Erum voor het examen  
     
 # 2 : wat is dit ?
@@ -11,16 +15,14 @@
 
     De opgave wordt even voor starttijd bekend gemaakt  
     - in de vorm van een notebook in /notebooks  
-    - de opgave zelf is terug te vinden in /notebooks/examen-deel1-original  
+    - de opgave zelf is terug te vinden in /notebooks/examen-deel(?)-original  
     - de bijbehorende gegevens zijn terug te vinden in /data/geboortes
 
 # 3 : detail betreffende de opdracht zelf
     - deel 1: 4/6/2024  
-
-    opmerkingen nog toe te voegen tijdens examen
+    geen specifieke opmerkingen
 
     - deel 2: 11/6/2024  
-
     opmerkingen nog toe te voegen tijdens examen
     
 # 4. uitvoeren : hoe weet ik snel wat het allemaal doet ?  

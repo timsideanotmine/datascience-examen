@@ -88,6 +88,7 @@ data/
 # Added - VS Code usage and environment via VS Code
 .vscode/
 .venv/
+oplossingen/
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is

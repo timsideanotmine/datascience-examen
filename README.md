@@ -1,12 +1,14 @@
 # 1 : datascience-examen van Johan Van Erum
     de code base bevat 3 notebooks in de map /notebooks
-    -   examen-deel1-oplossing, het eerste deel, gedaan op 4 juni 2024 vanaf 18:45 's avonds
-    -   examen-deel1-oplossing-afgewerkt, het eerste deel, gedaan op 4 juni 2024, vervolledigd buiten tijd
-    -   examen-deel1-original, de opgave van het examen
-    -   examen-deel2-oplossing, het tweede deel, gedaan op 11 juni 2024 vanaf 18:45 's avonds
-    -   examen-deel2-original, de opgave van het examen
+    -   examen_deel1-oplossing, het eerste deel, gedaan op 4 juni 2024 vanaf 18:45 's avonds
+    -   examen_deel1-oplossing-afgewerkt, het eerste deel, gedaan op 4 juni 2024, vervolledigd buiten tijd
+    -   examen_deel1-original, de opgave van het examen
 
-    deze notebooks vormen de oplossing van de student Johan Van Erum voor het examen  
+    -   examen_deel2-oplossing, het tweede deel, gedaan op 11 juni 2024 vanaf 18:45 's avonds
+        dit deel bevat examen-deel1-oplossing-afgewerkt als voorbereiding voor 11 juni
+    -   examen_deel2-original, de opgave van het examen
+
+    deze notebooks vormen de oplossing(en) van de student Johan Van Erum voor het examen  
     
 # 2 : wat is dit ?
     Dit betreft het examen data science, Syntra, 1ste jaar, gegeven door Tim Hellemans  
@@ -15,15 +17,15 @@
 
     De opgave wordt even voor starttijd bekend gemaakt  
     - in de vorm van een notebook in /notebooks  
-    - de opgave zelf is terug te vinden in /notebooks/examen-deel(?)-original  
+    - de opgave zelf is terug te vinden in /notebooks/examen_deel(?)-original  
     - de bijbehorende gegevens zijn terug te vinden in /data/geboortes
 
 # 3 : detail betreffende de opdracht zelf
     - deel 1: 4/6/2024  
-    geen specifieke opmerkingen
+      de opgave werd verder afgewerkt
 
     - deel 2: 11/6/2024  
-    opmerkingen nog toe te voegen tijdens examen
+      opmerkingen nog toe te voegen tijdens examen
     
 # 4. uitvoeren : hoe weet ik snel wat het allemaal doet ?  
     doe een run all, nadat je de omgeving hebt opgezet  
